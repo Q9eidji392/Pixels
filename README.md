@@ -114,3 +114,4 @@ You don't have to repeat this process unless you completely uninstall the app an
 
 ----------------------
 If you need more help or experiencing any issue, please email us at tribalfs@gmail.com .
+adb shell pm grant com.tribalfs.pixels android.permission.WRITE_SECURE_SETTINGS
